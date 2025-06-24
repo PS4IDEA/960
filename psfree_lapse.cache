@@ -1,18 +1,19 @@
 CACHE MANIFEST
 # v1
-# Generated on 2025-06-24 14:57:07.262617
+# Generated on 2025-06-24 15:18:37.292023
 
 CACHE:
 about.html
 alert.mjs
 cache.html
 config.mjs
+GoldHEN.bin
 icon0.jpg
 icon0.png
 index.html
+Jailbreak.js
 lapse.mjs
-payload.bin
-payload.js
+payloads.js
 psfree.mjs
 send.mjs
 fonts/FONTS.LICENSE
